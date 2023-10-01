@@ -1,4 +1,8 @@
-# Azure-Flask-App
+# Azure-Flask-LLM
+
+## Old Instructions but they'll be handy once I get the app completed.
+
+
 This readme will walk you through creating an auto scaling app using GitHub, Docker, and Microsoft App Services 
 
 ## Step One Environment Set Up
